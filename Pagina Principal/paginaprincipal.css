@@ -1,0 +1,87 @@
+#gameLogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    width: 150px;
+    height: 200px;
+}
+
+.boasVindas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    text-align: center;
+    padding: 5px;
+    background-color: #F0F8FF;
+    color: #826c58 ;
+}
+
+.card {
+    width: 22rem;
+    margin: 0 auto;
+    padding-top: 5px;
+    border-color: #826c58 !important;
+}
+
+.card-title {
+    background-color: #D2B48C;
+    padding: 5px;
+}
+
+.btn-light {
+    width: 200px;
+    background-color: #826c58 !important;
+    color: white !important;
+}
+
+.btn-block {
+    width: 400px;
+    background-color: #826c58 !important;
+    color: white !important;
+}
+
+button {
+    width: 500px;
+    height: 60px;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    border-color: lightgrey;
+}
+
+.historico {
+    width: max-content;
+    margin: 0 auto;
+    padding: 100px;
+    color: #666966;
+    font-family: Arial sans-serif;
+}
+
+#galo {
+    width: 110px;
+    height: 110px;
+    padding-bottom: 20px;
+}
+
+#quatro {
+    width: 90px;
+    height: 110px;
+    padding-bottom: 20px;
+}
+
+#memoria {
+    width: 90px;
+    height: 110px;
+    padding-bottom: 20px;
+}
+
+.card-footer {
+    height: 40px;
+    line-height: 40px;
+    background-color: #D2B48C !important;
+    color: black !important;
+    text-align: center;
+}
